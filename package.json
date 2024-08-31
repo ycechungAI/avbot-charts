@@ -16,7 +16,7 @@
     "jest": "jest && codecov"
   },
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^0.28.0",
     "axios-cache-adapter": "^2.7.3",
     "axios-retry": "^3.2.4",
     "chalk": "^4.1.2",
@@ -27,9 +27,9 @@
     "dotenv": "^10.0.0",
     "fmtr": "^1.1.3",
     "jest": "^27.3.1",
-    "mongoose": "^6.0.12",
+    "mongoose": "^6.11.3",
     "prettier": "^2.4.1",
-    "puppeteer": "^10.4.0",
+    "puppeteer": "^23.2.1",
     "winston": "^3.3.3",
     "xmldom": "^0.6.0",
     "xpath": "^0.0.32"
@@ -41,6 +41,6 @@
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-prettier": "^3.3.1",
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.22"
   }
 }
